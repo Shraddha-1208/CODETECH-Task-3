@@ -3,9 +3,9 @@ Customer Segmentation Using KMeans Clustering
  Project Overview
 
 - Project Name: Customer Segmentation Using KMeans Clustering
-- Name: Athul Krishna
+- Name: Shraddha
 - Company: CODTECH IT SOLUTIONS
-- ID: CT08DS7176
+- ID: CT08057177
 - Domain:Data Analytics
 - Duration:Aug to Sep 2024
 - Mentor:Santhosh
